@@ -1,0 +1,5 @@
+git clone .
+git push REMOTE-NAME BRANCH-NAME
+git add .
+git commit -m
+git push origin .
